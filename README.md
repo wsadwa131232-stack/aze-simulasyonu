@@ -1,0 +1,2 @@
+# aze-simulasyonu
+aze simulasyonu
